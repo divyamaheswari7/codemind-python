@@ -1,4 +1,4 @@
-n=int(input())  
+n=int(input())
 sum_n=0  
 for i in range(1,n):  
     if (n%i==0):  
@@ -6,4 +6,4 @@ for i in range(1,n):
 if(sum_n==n):  
     print("True")  
 else:  
-    print("False")  
+    print("False")
